@@ -12,5 +12,7 @@
 - demo/: vídeos e protótipos
 
 ## Equipe
-(Listar integrantes)
+- Lucas Braga
+- Alexandre Carvalho
+- Tide
 
